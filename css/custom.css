@@ -1,0 +1,9 @@
+#single-slide {
+	height: 500px;
+}
+
+.reveal .size1{font-size: 16px;opacity: 0.30;}
+.reveal .size2{font-size: 20px;opacity: 0.60;}
+.reveal .size3{font-size: 28px;opacity: 0.80;}
+.reveal .size4{font-size: 40px;opacity: 1.00;}
+.reveal .size5{font-size: 40px;opacity: 1.00;color: #F48762;}
